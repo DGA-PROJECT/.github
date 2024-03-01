@@ -1,12 +1,2 @@
 ## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+‘아빠 또 갈까 ? (Daddy Go Again)’ 서비스는 한 아빠의 자식이면서 또 한 아이의 아빠인 고객을 타겟으로, 키즈관광과 효도관광 핫플레이스를 공유하는 커뮤니티 기반 플랫폼입니다. 단순히 경험을 공유하는 것이 아니라, 또 간 횟수를 메인 키워드로 정해, 사용자로 하여금 정말 좋은 여행지를 찾을 수 있도록 도움을 주는 서비스입니다.
